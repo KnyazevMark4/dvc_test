@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://irkstell@192.168.1.248/home/irkstell/dvc
+    ask_password = true
